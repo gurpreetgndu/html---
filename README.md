@@ -1,2 +1,16 @@
-<h1>hellow</h1>
-<h1>i m Gurpreet</h1>
+<table>
+  <thead>
+    <tr>
+      <th>Roll no</th>
+      <th>Name</th>
+      <th>Class</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1001</td>
+      <td>guri</td>
+      <td>mca</td>
+    </tr>
+  </tbody>
+</table>
